@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Land
+  - Enemy
+  - Platform
+  - Trap
+  - Super
+  - Wall
+  - CCTV
+  - Goal
+  - MovePlatform
+  - File
+  - SkillFile
+  - PressBtn
+  - ClearFile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Land
+  - Platform
+  - Player
+  - Enemy
+  - Trap
+  - Wall
+  - Not
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 1247196777
+    locked: 0
+  - name: Land
+    uniqueID: 2942241795
+    locked: 0
+  - name: Platform
+    uniqueID: 2873005895
+    locked: 0
+  - name: Object
+    uniqueID: 4282068547
+    locked: 0
+  - name: Boss
+    uniqueID: 149705647
+    locked: 0
